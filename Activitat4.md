@@ -16,15 +16,15 @@ Per a que pugui accedir necessitarà:
 
 **4.1.-** Crea un usuari admin que es digui adminXYZ, on XYZ són les inicials del teu nom:
 
-**RESPOSTA**
+![](Selecció_061.png)
 
 **4.2.-** Inicia sessió com a l'usuari adminXYZ.
 
-**RESPOSTA**
+![](Selecció_062.png)
 
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
-**RESPOSTA**
+![](Selecció_069.png)
 
 **4.4.-** Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
@@ -36,7 +36,7 @@ A l'exemple es crea un fitxer de 10MB.
 
 Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
-**RESPOSTA**
+
 
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
