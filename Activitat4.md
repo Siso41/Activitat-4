@@ -73,11 +73,22 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
 
-![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
+**PRIMERA APP**
+![](Selecció_098.png)
 
-**RESPOSTA PRIMERA APP**
+L'aplicació Calendar és una interfície d'usuari per al servidor CalDAV d'ownCloud. Ens permet sincronitza fàcilment esdeveniments de diversos dispositius amb el teu ownCloud i editar-los en línia.
 
-**RESPOSTA SEGONA APP**
+Funcionament:
+
+![](Selecció_099.png)
+
+Aquesta funciona com un calendari normal amb la diferència que el podem compartir amb altres usuaris del servidor i també ens permet sincronitzar-lo amb eltres dispositius.
+
+**SEGONA APP**
+
+![](Selecció_100.png)
+
+Aquesta aplicació ens permetra posar un sistema de doble autetificació al nostre compte. Funciona vinculant el compte a un altre dispositiu, que quant al que quant algú intenti iniciar sessió al compte de owncloud vincula, rebrà un correu amb un codi de verificació per fer el compte mes segur.
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
