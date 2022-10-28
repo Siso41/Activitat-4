@@ -94,7 +94,7 @@ Aquesta aplicació ens permetra posar un sistema de doble autetificació al nost
 
 Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
-**RESPOSTA**
+![](Selecció_101.png)
 
 **4.15.-** Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html). Tots els usuaris tindran accés a la carpeta.
 
