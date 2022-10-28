@@ -36,39 +36,40 @@ A l'exemple es crea un fitxer de 10MB.
 
 Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
-
+![](Selecció_078.png)
 
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
-![](Selecció_078.png)
+![](Selecció_66.png)
 
 **4.6.-** Busca al teu perfil quin percentatge de quota estas utilitzant.
 
-**RESPOSTA**
+![](Selecció_067.png)
 
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
-**RESPOSTA**
+![](Selecció_095.png)
 
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
-**RESPOSTA**
+![](Selecció_096.png)
 
 **4.9.-** Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 
-**RESPOSTA**
+![](Selecció_071.png)
+![](Selecció_072.png)
 
 **4.10.-** Esborra la carpeta Learn more about owncloud.
 
-**RESPOSTA**
+![](Selecció_074.png)
 
 **4.11.-** Recupera la carpeta Learn more about owncloud.
 
-**RESPOSTA**
+![](Selecció_097.png)
 
 **4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
-**RESPOSTA**
+![](Selecció_076.png)
 
 **4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
 
